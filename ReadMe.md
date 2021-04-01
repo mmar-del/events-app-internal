@@ -1,1 +1,1 @@
-This is team Raincheck's internal repositoryread me
+This is team Raincheck's internal repository read me
